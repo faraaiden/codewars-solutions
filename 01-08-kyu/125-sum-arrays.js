@@ -24,4 +24,4 @@ We're testing basic loops and math operations. This is for beginners who are jus
 Advanced users may find this extremely easy and can easily write this in one line.
 */
 
-const sum = numbers => numbers.length === 0 ? 0 : numbers.reduce((acc, curr) => acc + curr, 0);
+const sum = numbers => numbers.reduce((acc, curr) => acc + curr, 0);
