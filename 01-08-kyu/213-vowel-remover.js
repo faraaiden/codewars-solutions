@@ -10,7 +10,7 @@ Examples:
 "goodbye"   -->  "gdby"
 "HELLO"     -->  "HELLO"
 
-- Don't worry about uppercase vowels
+- don't worry about uppercase vowels
 - y is not considered a vowel for this kata
 */
 
